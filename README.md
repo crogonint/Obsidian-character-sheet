@@ -20,6 +20,8 @@ Note: The gems on the medallion function as a death save counter.. with surprise
 - Some elements have had their resizing/movement disabled for UX purposes. If you want to resize/rearrange the elements yourself, the CSS controlling that is at the top of the canvas_styling_linked or the canvas_styling_embedded CSS files (not the *_images CSS file) in the snippets folder.
 - I disabled a handful of core plugins that have nothing to do with using a Character Sheet on Canvas. Feel free to enable whatever you like, to do whatever you need to, it's fine (won't break anything). 
 
+No release needed, just click the "Code" button up top, then download ZIP. Unzip the zip and drop the whole thing in as an Obsidian vault. :)
+
 Fonts used:
 - [Austral Sans Stamp](https://www.dafont.com/austral-sans-stamp.font)
 - [b Beach Ocean](https://www.dafont.com/b-beach-ocean.font)
