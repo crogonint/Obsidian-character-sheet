@@ -4,23 +4,26 @@
     "type": "split",
     "children": [
       {
-        "id": "214fd8085e77190d",
+        "id": "1eefa96b9f702d5c",
         "type": "tabs",
         "children": [
           {
-            "id": "cc9b4db4763b1f10",
+            "id": "9fc3520613a22efd",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "canvas",
               "state": {
                 "file": "Characters/Diero Falone/Canvas - Diero Falone.canvas",
                 "viewState": {
-                  "x": 599.5,
-                  "y": 551,
-                  "zoom": -1.096432994754892,
-                  "snapToGrid": false
+                  "x": 874.7593699301588,
+                  "y": 591.3947484372578,
+                  "zoom": -1.288649655458538
                 }
-              }
+              },
+              "pinned": true,
+              "icon": "lucide-layout-dashboard",
+              "title": "Canvas - Diero Falone"
             }
           }
         ]
@@ -42,8 +45,11 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "byModifiedTime"
-              }
+                "sortOrder": "byModifiedTime",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
@@ -58,7 +64,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           },
           {
@@ -66,7 +74,19 @@
             "type": "leaf",
             "state": {
               "type": "starred",
-              "state": {}
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "starred"
+            }
+          },
+          {
+            "id": "a4a37a9811cb000f",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           }
         ]
@@ -95,9 +115,11 @@
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": false
-              }
+                "backlinkCollapsed": true,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Canvas - Diero Falone"
             }
           },
           {
@@ -109,28 +131,9 @@
                 "file": "Characters/Diero Falone/Canvas - Diero Falone.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
-            }
-          },
-          {
-            "id": "12de4094c5af310e",
-            "type": "leaf",
-            "state": {
-              "type": "tag",
-              "state": {
-                "sortOrder": "frequency",
-                "useHierarchy": true
-              }
-            }
-          },
-          {
-            "id": "102a50d3cd3f99b5",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "Characters/Diero Falone/Canvas - Diero Falone.canvas"
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Canvas - Diero Falone"
             }
           },
           {
@@ -138,10 +141,13 @@
             "type": "leaf",
             "state": {
               "type": "advanced-tables-toolbar",
-              "state": {}
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "advanced-tables-toolbar"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -151,24 +157,47 @@
   "left-ribbon": {
     "hiddenItems": {
       "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "canvas:Create new canvas": false
     }
   },
-  "active": "b60afae08e103db8",
+  "active": "9fc3520613a22efd",
   "lastOpenFiles": [
-    "README.md",
     "Characters/Diero Falone/Canvas - Diero Falone.canvas",
+    "README.md",
+    "Characters/Diero Falone/Inventory - Diero Falone.md",
+    "Wiki/Mage Hand.md",
+    "Characters/Diero Falone/OLD Canvas - Diero Falone.canvas",
+    "Characters/Diero Falone/Death Saves - Diero Falone.md",
+    "Wiki/Condition - Invisible.md",
+    "Assets/yhvtscC.png",
+    "Assets/TmVzWTC.png",
+    "Assets/ShxQaOp.png",
+    "Assets/LRJZaXU.jpg",
+    "Assets/l9cPUkm.png",
+    "Assets/kYrw6vT.png",
+    "Assets/kfhu5j0.png",
+    "Assets/jxz716s.png",
+    "Assets/JwcJBI2.png",
+    "Assets/f4u7MRC.png",
+    "Characters/Diero Falone/Character Profile - Diero Falone.md",
+    "Characters/Diero Falone/Attacks - Diero Falone.md",
+    "Characters/Diero Falone/Init - Diero Falone.md",
+    "Characters/Diero Falone/HP - Diero Falone.md",
+    "Characters/Diero Falone/Ideas - Diero Falone.md",
+    "Characters/Diero Falone/Hit Dice - Diero Falone.md",
+    "Characters/Diero Falone/GP - Diero Falone.md",
+    "Characters/Diero Falone/EP - Diero Falone.md",
+    "Characters/Diero Falone/Heals Left - Diero Falone.md",
+    "Characters/Diero Falone/Features - Diero Falone.md",
+    "Characters/Diero Falone/CP - Diero Falone.md",
+    "Characters/Diero Falone/Character Assessment - Diero Falone.md",
+    "Characters/Diero Falone/Ability Details 2 - Diero Falone.md",
+    "Characters/Diero Falone/Ability Details 1 - Diero Falone.md",
     "Characters/Diero Falone/Level - Diero Falone.md",
     "Wiki/Eldritch Blast.md",
     "Wiki/Hellish Rebuke.md",
     "Wiki/Expeditious Retreat.md",
     "Wiki/Misty Step.md",
-    "Wiki/Invisibility.md",
-    "Wiki/Condition - Invisible.md",
-    "Wiki/Light.md"
+    "Wiki/Invisibility.md"
   ]
 }

@@ -3,8 +3,9 @@
   "readableLineLength": true,
   "showInlineTitle": false,
   "attachmentFolderPath": "Assets",
-  "livePreview": false,
+  "livePreview": true,
   "alwaysUpdateLinks": true,
   "smartIndentList": true,
-  "defaultViewMode": "preview"
+  "defaultViewMode": "preview",
+  "propertiesInDocument": "hidden"
 }

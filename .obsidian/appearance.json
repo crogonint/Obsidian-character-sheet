@@ -11,10 +11,12 @@
     "Custom",
     "CustomFonts",
     "CustomCanvas",
-    "canvas_styling",
-    "custom_fonts"
+    "custom_fonts",
+    "canvas_styling_embedded",
+    "canvas_styling_embedded_images"
   ],
   "interfaceFontFamily": "",
   "textFontFamily": "",
-  "baseFontSize": 14
+  "baseFontSize": 14,
+  "showRibbon": true
 }
