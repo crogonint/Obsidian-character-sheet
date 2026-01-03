@@ -1,5 +1,7 @@
 ---
-cssclass: tilingpaper details
+cssclasses:
+  - tilingpaper
+  - details
 ---
 >[!|t-w t-nh p30]
 | |

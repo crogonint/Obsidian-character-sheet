@@ -1,5 +1,7 @@
 ---
-cssclass: tilingpaper enhancements
+cssclasses:
+  - tilingpaper
+  - enhancements
 ---
 ## SUBJECT ENHANCEMENTS:
 >[!|t-w t-nh]

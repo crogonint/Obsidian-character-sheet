@@ -1,4 +1,5 @@
 ---
-cssclass: profile-img
+cssclasses:
+  - profile-img
 ---
 >[!|profile-img] ![[profile_image.png]]

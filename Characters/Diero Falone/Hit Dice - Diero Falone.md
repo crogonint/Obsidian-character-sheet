@@ -1,4 +1,5 @@
 ---
-cssclass: hitdice
+cssclasses:
+  - hitdice
 ---
 `dice:1d8|render`

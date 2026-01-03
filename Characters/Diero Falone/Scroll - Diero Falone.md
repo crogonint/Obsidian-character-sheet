@@ -1,5 +1,6 @@
 ---
-cssclass: scroll
+cssclasses:
+  - scroll
 ---
 
 >[!|scroll]

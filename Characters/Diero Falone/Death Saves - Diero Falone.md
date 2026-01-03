@@ -1,5 +1,6 @@
 ---
-cssclass: deathsaves
+cssclasses:
+  - deathsaves
 ---
 
 > [!|deathsaves]

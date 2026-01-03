@@ -1,10 +1,12 @@
 ---
-cssclass: inventory
+cssclasses:
+  - inventory
 ---
 ![[header_inventory.svg|foreground]]
 
 |       |     |
 | ----- | --- |
+|       |     |
 | Crossbow                                  |    x1    |
 | Crossbow Bolts                            |   x20    |
 | Old divination card with my face |    x1    |

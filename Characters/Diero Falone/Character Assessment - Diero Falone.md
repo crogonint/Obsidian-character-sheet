@@ -1,5 +1,7 @@
 ---
-cssclass: tilingpaper assessment
+cssclasses:
+  - tilingpaper
+  - assessment
 ---
 ## CHARACTER ASSESSMENT:
 

@@ -1,5 +1,6 @@
 ---
-cssclass: risklevel
+cssclasses:
+  - risklevel
 ---
 >[!|risklevel]
 ![[background_risklevel.png|background]]
